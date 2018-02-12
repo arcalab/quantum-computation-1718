@@ -1,1 +1,1 @@
-# quantum-computation-1718
+Material for the course "Quantum Logic", taught at the University of Minho.
